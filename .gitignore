@@ -1,0 +1,8 @@
+# source files
+src/cluster-connections
+src/*.o
+
+# example files
+example/cluster-connections
+example/cluster-connections.csv
+example/cluster-connections.png
